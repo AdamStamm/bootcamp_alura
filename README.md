@@ -60,4 +60,4 @@ Nossa proposta de solução foi utilizar modelos de Machine Learning, mas para t
 
 ## Acesso aos códigos
 
-Para acessar os códigos feitos durante os módulos basta acessar a pasta notebooks deste mesmo repositório.
+Para acessar os códigos feitos durante os módulos basta acessar a pasta [notebooks](https://github.com/AdamStamm/bootcamp_alura/tree/main/Notebooks) deste mesmo repositório.
