@@ -3,7 +3,15 @@
 ## Sobre:
 
 Este repositório tem a finalidade de armazenar todos os códigos utilizados no bootcamp.
-O bootcamp tem duração de 12 semanas de imersão e tem como instrutores Átila Iamarino, Guilherme Silveira, Luis Moneda, Thainá Mariani e Thiago Gonçalves.
+O bootcamp tem duração de 12 semanas de imersão.
+
+Promovido por: <a href=“http://alura.com.br/“>Alura</a> 
+
+Instrutores: Átila Iamarino, Guilherme Silveira, Luis Moneda, Thainá Mariani e Thiago Gonçalves.
+
+Data de início: 04/11/2020
+
+Data de termino: *em andamento*
 
 O bootcamp é realizado através do seguinte:
 
