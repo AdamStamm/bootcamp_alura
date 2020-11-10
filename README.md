@@ -11,7 +11,7 @@ Instrutores: Átila Iamarino, Guilherme Silveira, Luis Moneda, Thainá Mariani e
 
 Data de início: 04/11/2020
 
-Data de termino: *em andamento*
+Data de término: *em andamento*
 
 O bootcamp é realizado através do seguinte:
 
