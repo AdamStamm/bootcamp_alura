@@ -5,7 +5,7 @@
 Este repositório tem a finalidade de armazenar todos os códigos utilizados no bootcamp.
 O bootcamp tem duração de 12 semanas de imersão.
 
-Promovido por: [Alura](http://alura.com.br) 
+Promovido por: [Alura](https://bootcamps.alura.com.br/) 
 
 Instrutores: Átila Iamarino, Guilherme Silveira, Luis Moneda, Thainá Mariani e Thiago Gonçalves.
 
