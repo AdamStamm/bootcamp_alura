@@ -32,14 +32,11 @@ Vamos juntos e juntas, pois esse módulo está lotado de discussões interessant
 
  **Tópicos:**
  * Fontes externas, limpeza e manipulação de dados.
-
- **Tópicos:**
-    * Fontes externas, limpeza e manipulação de dados.
-    * Proporcionalidades e Seaborn.
-    * Ticks, escalas e formatação de imagens.
-    * Trabalhando com DateTime e Melt.
-    * Manipulando datas e gerando novas análises.
-    * Agrupando dados e analisando por categoria.
+ * Proporcionalidades e Seaborn.
+ * Ticks, escalas e formatação de imagens.
+ * Trabalhando com DateTime e Melt.
+ * Manipulando datas e gerando novas análises.
+ * Agrupando dados e analisando por categoria.
 
 - **Módulo 3 - Estatística com python para análise de dados**
 Chegamos ao módulo 3 e está na hora de mergulhar na estatística! Trabalharemos com a base de dados PeNSE (Pesquisa Nacional da Saúde do Escolar) e utilizaremos conceitos estatísticos para aprofundar nosso entendimento sobre a saúde de jovens e adolescentes, criando e validando hipóteses com testes estatísticos.
