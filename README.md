@@ -31,6 +31,9 @@ Fontes de dados externas serão utilizadas para enriquecer a análise explorató
 Vamos juntos e juntas, pois esse módulo está lotado de discussões interessantes!
 
  **Tópicos:**
+ * Fontes externas, limpeza e manipulação de dados.
+
+ **Tópicos:**
     * Fontes externas, limpeza e manipulação de dados.
     * Proporcionalidades e Seaborn.
     * Ticks, escalas e formatação de imagens.
