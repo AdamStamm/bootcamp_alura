@@ -42,7 +42,13 @@ Vamos juntos e juntas, pois esse módulo está lotado de discussões interessant
 Chegamos ao módulo 3 e está na hora de mergulhar na estatística! Trabalharemos com a base de dados PeNSE (Pesquisa Nacional da Saúde do Escolar) e utilizaremos conceitos estatísticos para aprofundar nosso entendimento sobre a saúde de jovens e adolescentes, criando e validando hipóteses com testes estatísticos.
 Para auxiliar nesta jornada nossa principal ferramenta será o Statsmodels, biblioteca Python para análise estatística. E aí, tudo pronto para usar a estatística a nosso favor?
 
-*Disponível em breve*
+  **Tópicos:** 
+  - Educação, saúde e tipos de dados.
+  - Dados qualitativos e tabelas de frequências.
+  - Frequência em dados contínuos e pandas CrossTab.
+  - Histograma e Boxplot.
+  - Medida de centralidade e dispersão.
+  - Intervalo de confiança e testes.
 
 **Módulo 4 - Análise de séries temporais**
 
